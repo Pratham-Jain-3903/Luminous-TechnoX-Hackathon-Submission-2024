@@ -137,17 +137,19 @@ SolarWise is a comprehensive AI-driven energy management solution that integrate
    - Handles large data volumes
    - Adaptable to various markets
 
-2. **User Flexibility**
+<img src="images/adaptable.png" alt="Dashboard Screenshot" width="500" height="300">
+
+3. **User Flexibility**
    - Remote monitoring
    - Anywhere access
    - Real-time control
 
-3. **Intelligent Optimization**
+4. **Intelligent Optimization**
    - Continuous learning
    - Adaptive to user behavior
    - Market-aware scheduling
 
-4. **Robust Infrastructure**
+5. **Robust Infrastructure**
    - 99.5% uptime
    - Scalable architecture
    - Secure data handling
