@@ -97,7 +97,7 @@ SolarWise is a comprehensive AI-driven energy management solution that integrate
 
 ### Data Flow Architecture
 
- <img src="images/cloud" alt=" Dynamic Cloud Architecture Screenshot" width="1280" height="640">
+ <img src="images/cloud.png" alt=" Dynamic Cloud Architecture Screenshot" width="1280" height="640">
 
 
 ### Database Structure
