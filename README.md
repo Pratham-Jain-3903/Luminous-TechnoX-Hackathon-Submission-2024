@@ -165,11 +165,10 @@ To minimize costs associated with real-time compute on AWS SageMaker, we impleme
 - **TOU Tariff Data**: Data generated using the **Tariff of Time of Use (ToU) Indian Power System Dataset** from [Mendeley Data](https://data.mendeley.com/datasets/7g9frz6sm8/1), normalized for commercial rates per unit. The system loops these values to simulate upcoming tariff rates.
 - **Solar Power Generation & Consumption**: Cleaned data provided by **Luminous** after the initial Q&A session, looped to mimic continuous solar power generation and consumption.
 
-Our ML models were trained using the above split and augmented data, validated against actual user consumption data from **InAnalytics**. This serves as a robust baseline for real consumer data integration.
+Our ML models were trained using the above split and augmented data, validated against actual user consumption data from **InAnalytics**. This serves as a robust baseline for real consumer data 
+integration.
 
-## Source Code
-
-Find our complete source code at: [Luminous-TechnoX-Hackathon-Submission-2024](https://github.com/Pratham-Jain-3903/Luminous-TechnoX-Hackathon-Submission-2024.git)
+### We have utilized the Pycarat library for quick prototyping and trial and error on over 20 ML models for each prediction feature
 
 ## License
 
