@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/523016372177870998/46a30d934d0d4866bcb6c96d9e5f5a67/artifacts
+end_time: 1729919839409
+entry_point_name: ''
+experiment_id: '523016372177870998'
+lifecycle_stage: active
+run_id: 46a30d934d0d4866bcb6c96d9e5f5a67
+run_name: Bayesian Ridge
+run_uuid: 46a30d934d0d4866bcb6c96d9e5f5a67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729919839150
+status: 3
+tags: []
+user_id: Pratham Jain

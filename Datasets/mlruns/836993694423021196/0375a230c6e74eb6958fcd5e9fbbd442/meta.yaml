@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/836993694423021196/0375a230c6e74eb6958fcd5e9fbbd442/artifacts
+end_time: 1729926056976
+entry_point_name: ''
+experiment_id: '836993694423021196'
+lifecycle_stage: active
+run_id: 0375a230c6e74eb6958fcd5e9fbbd442
+run_name: Random Forest Regressor
+run_uuid: 0375a230c6e74eb6958fcd5e9fbbd442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729926056674
+status: 3
+tags: []
+user_id: Pratham Jain

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/523016372177870998/5a0caeda6302496ebcfb348b048e7c0b/artifacts
+end_time: 1729924994251
+entry_point_name: ''
+experiment_id: '523016372177870998'
+lifecycle_stage: active
+run_id: 5a0caeda6302496ebcfb348b048e7c0b
+run_name: K Neighbors Regressor
+run_uuid: 5a0caeda6302496ebcfb348b048e7c0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729924994001
+status: 3
+tags: []
+user_id: Pratham Jain

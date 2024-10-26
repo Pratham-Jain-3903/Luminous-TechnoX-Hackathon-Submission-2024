@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/523016372177870998/bebe44624c6d49a78f042debaae6768b/artifacts
+end_time: 1729919838623
+entry_point_name: ''
+experiment_id: '523016372177870998'
+lifecycle_stage: active
+run_id: bebe44624c6d49a78f042debaae6768b
+run_name: Orthogonal Matching Pursuit
+run_uuid: bebe44624c6d49a78f042debaae6768b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729919838377
+status: 3
+tags: []
+user_id: Pratham Jain

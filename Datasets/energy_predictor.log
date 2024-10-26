@@ -1,0 +1,274 @@
+2024-10-26 10:12:56,734 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:12:56,736 - __main__ - ERROR - Error loading data: [Errno 2] No such file or directory: 'Datasets/Complete_data_Training.csv'
+2024-10-26 10:12:56,737 - __main__ - ERROR - Error in prediction pipeline: [Errno 2] No such file or directory: 'Datasets/Complete_data_Training.csv'
+2024-10-26 10:13:36,407 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:13:36,429 - __main__ - ERROR - Error loading data: unit must not be specified if the input contains a str
+2024-10-26 10:13:36,431 - __main__ - ERROR - Error in prediction pipeline: unit must not be specified if the input contains a str
+2024-10-26 10:16:28,500 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:16:28,522 - __main__ - ERROR - Error loading data: could not convert string to float: '00:03'
+2024-10-26 10:16:28,524 - __main__ - ERROR - Error in prediction pipeline: could not convert string to float: '00:03'
+2024-10-26 10:18:31,148 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:18:31,202 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:18:31,203 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:18:31,204 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:18:31,207 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:18:31,209 - __main__ - ERROR - Error training model for TOU_rates (INR): setup() got an unexpected keyword argument 'silent'
+2024-10-26 10:18:31,209 - __main__ - ERROR - Error in prediction pipeline: setup() got an unexpected keyword argument 'silent'
+2024-10-26 10:19:29,142 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:19:29,199 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:19:29,201 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:19:29,202 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:19:29,207 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:19:29,208 - __main__ - ERROR - Error training model for TOU_rates (INR): setup() got an unexpected keyword argument 'silent'
+2024-10-26 10:19:29,210 - __main__ - ERROR - Error in prediction pipeline: setup() got an unexpected keyword argument 'silent'
+2024-10-26 10:19:34,176 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:19:34,223 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:19:34,225 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:19:34,226 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:19:34,230 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:19:34,231 - __main__ - ERROR - Error training model for TOU_rates (INR): setup() got an unexpected keyword argument 'feature_selection_threshold'
+2024-10-26 10:19:34,232 - __main__ - ERROR - Error in prediction pipeline: setup() got an unexpected keyword argument 'feature_selection_threshold'
+2024-10-26 10:19:37,952 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:19:37,994 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:19:37,995 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:19:37,996 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:19:38,001 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:19:38,002 - __main__ - ERROR - Error training model for TOU_rates (INR): setup() got an unexpected keyword argument 'feature_selection_threshold'
+2024-10-26 10:19:38,002 - __main__ - ERROR - Error in prediction pipeline: setup() got an unexpected keyword argument 'feature_selection_threshold'
+2024-10-26 10:22:33,894 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:22:33,939 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:22:33,941 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:22:33,942 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:22:33,947 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:22:33,950 - __main__ - ERROR - Error training model for TOU_rates (INR): MlflowLogger requires mlflow. Install using `pip install mlflow`
+2024-10-26 10:22:33,951 - __main__ - ERROR - Error in prediction pipeline: MlflowLogger requires mlflow. Install using `pip install mlflow`
+2024-10-26 10:24:17,600 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:24:17,655 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:24:17,656 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:24:17,657 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:24:17,660 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:24:17,663 - __main__ - ERROR - Error training model for TOU_rates (INR): MlflowLogger requires mlflow. Install using `pip install mlflow`
+2024-10-26 10:24:17,667 - __main__ - ERROR - Error in prediction pipeline: MlflowLogger requires mlflow. Install using `pip install mlflow`
+2024-10-26 10:25:48,862 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:25:48,940 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:25:48,941 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:25:48,942 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:25:48,947 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:25:48,954 - __main__ - ERROR - Error training model for TOU_rates (INR): MlflowLogger requires mlflow. Install using `pip install mlflow`
+2024-10-26 10:25:48,957 - __main__ - ERROR - Error in prediction pipeline: MlflowLogger requires mlflow. Install using `pip install mlflow`
+2024-10-26 10:28:01,038 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:28:01,088 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:28:01,090 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:28:01,091 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:28:01,097 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:28:01,099 - __main__ - ERROR - Error training model for TOU_rates (INR): MlflowLogger requires mlflow. Install using `pip install mlflow`
+2024-10-26 10:28:01,101 - __main__ - ERROR - Error in prediction pipeline: MlflowLogger requires mlflow. Install using `pip install mlflow`
+2024-10-26 10:30:48,751 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:30:48,800 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:30:48,801 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:30:48,802 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:30:48,807 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:30:49,201 - __main__ - ERROR - Error training model for TOU_rates (INR): Invalid value for the fold_strategy parameter. 'timeseries' requires 'data_split_shuffle' and 'fold_shuffle' to be False as it can lead to unexpected data split.
+2024-10-26 10:30:49,205 - __main__ - ERROR - Error in prediction pipeline: Invalid value for the fold_strategy parameter. 'timeseries' requires 'data_split_shuffle' and 'fold_shuffle' to be False as it can lead to unexpected data split.
+2024-10-26 10:35:09,371 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:35:09,424 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:35:09,425 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:35:09,426 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:35:09,432 - __main__ - INFO - Features used: ['Solar energy Generation  (kWh)', 'consumptionValue (kW)', 'Device_1_Consumption (kW)', 'Device_2_Consumption (kW)', 'Device_3_Consumption (kW)', 'Device_4_Consumption (kW)', 'TOU_rates (INR)', 'Cummulative Energy Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:35:12,879 - __main__ - ERROR - Error training model for TOU_rates (INR): The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- Device_1_Consumption (kW)
+- Device_2_Consumption (kW)
+- Device_3_Consumption (kW)
+- Device_4_Consumption (kW)
+- Solar energy Generation  (kWh)
+- ...
+Feature names seen at fit time, yet now missing:
+- Device_1_Consumption_(kW)
+- Device_2_Consumption_(kW)
+- Device_3_Consumption_(kW)
+- Device_4_Consumption_(kW)
+- Solar_energy_Generation__(kWh)
+- ...
+
+2024-10-26 10:35:12,880 - __main__ - ERROR - Error in prediction pipeline: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- Device_1_Consumption (kW)
+- Device_2_Consumption (kW)
+- Device_3_Consumption (kW)
+- Device_4_Consumption (kW)
+- Solar energy Generation  (kWh)
+- ...
+Feature names seen at fit time, yet now missing:
+- Device_1_Consumption_(kW)
+- Device_2_Consumption_(kW)
+- Device_3_Consumption_(kW)
+- Device_4_Consumption_(kW)
+- Solar_energy_Generation__(kWh)
+- ...
+
+2024-10-26 10:38:31,841 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:38:31,857 - __main__ - INFO - Column names standardized:
+2024-10-26 10:38:31,860 - __main__ - INFO -   Solar energy Generation  (kWh) -> Solar_energy_Generation_kWh
+2024-10-26 10:38:31,861 - __main__ - INFO -   consumptionValue (kW) -> consumptionValue_kW
+2024-10-26 10:38:31,862 - __main__ - INFO -   Device_1_Consumption (kW) -> Device_1_Consumption_kW
+2024-10-26 10:38:31,863 - __main__ - INFO -   Device_2_Consumption (kW) -> Device_2_Consumption_kW
+2024-10-26 10:38:31,863 - __main__ - INFO -   Device_3_Consumption (kW) -> Device_3_Consumption_kW
+2024-10-26 10:38:31,864 - __main__ - INFO -   Device_4_Consumption (kW) -> Device_4_Consumption_kW
+2024-10-26 10:38:31,864 - __main__ - INFO -   TOU_rates (INR) -> TOU_rates_INR
+2024-10-26 10:38:31,865 - __main__ - INFO -   Cummulative Energy Consumption -> Cummulative_Energy_Consumption
+2024-10-26 10:38:31,888 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:38:31,889 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:38:31,890 - __main__ - INFO - Training model for target: TOU_rates (INR)
+2024-10-26 10:38:31,895 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:38:31,913 - __main__ - ERROR - Error training model for TOU_rates (INR): Invalid value for the target parameter. Column TOU_rates (INR) not found in the data.
+2024-10-26 10:38:31,914 - __main__ - ERROR - Error in prediction pipeline: Invalid value for the target parameter. Column TOU_rates (INR) not found in the data.
+2024-10-26 10:46:07,703 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 10:46:07,733 - __main__ - INFO - Column names standardized:
+2024-10-26 10:46:07,734 - __main__ - INFO -   Solar energy Generation  (kWh) -> Solar_energy_Generation_kWh
+2024-10-26 10:46:07,735 - __main__ - INFO -   consumptionValue (kW) -> consumptionValue_kW
+2024-10-26 10:46:07,736 - __main__ - INFO -   Device_1_Consumption (kW) -> Device_1_Consumption_kW
+2024-10-26 10:46:07,737 - __main__ - INFO -   Device_2_Consumption (kW) -> Device_2_Consumption_kW
+2024-10-26 10:46:07,737 - __main__ - INFO -   Device_3_Consumption (kW) -> Device_3_Consumption_kW
+2024-10-26 10:46:07,739 - __main__ - INFO -   Device_4_Consumption (kW) -> Device_4_Consumption_kW
+2024-10-26 10:46:07,740 - __main__ - INFO -   TOU_rates (INR) -> TOU_rates_INR
+2024-10-26 10:46:07,741 - __main__ - INFO -   Cummulative Energy Consumption -> Cummulative_Energy_Consumption
+2024-10-26 10:46:07,787 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 10:46:07,791 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 10:46:07,793 - __main__ - INFO - Training model for target: TOU_rates_INR
+2024-10-26 10:46:07,797 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:47:21,131 - __main__ - INFO - Model training completed for TOU_rates_INR
+2024-10-26 10:47:21,134 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 10:47:21,323 - __main__ - INFO - Predictions generated for TOU_rates_INR
+2024-10-26 10:47:21,324 - __main__ - ERROR - Error generating predictions for TOU_rates_INR: 'Label'
+2024-10-26 10:47:21,325 - __main__ - ERROR - Error in prediction pipeline: 'Label'
+2024-10-26 12:12:40,598 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 12:12:40,612 - __main__ - INFO - Column names standardized:
+2024-10-26 12:12:40,613 - __main__ - INFO -   Solar energy Generation  (kWh) -> Solar_energy_Generation_kWh
+2024-10-26 12:12:40,614 - __main__ - INFO -   consumptionValue (kW) -> consumptionValue_kW
+2024-10-26 12:12:40,615 - __main__ - INFO -   Device_1_Consumption (kW) -> Device_1_Consumption_kW
+2024-10-26 12:12:40,615 - __main__ - INFO -   Device_2_Consumption (kW) -> Device_2_Consumption_kW
+2024-10-26 12:12:40,616 - __main__ - INFO -   Device_3_Consumption (kW) -> Device_3_Consumption_kW
+2024-10-26 12:12:40,617 - __main__ - INFO -   Device_4_Consumption (kW) -> Device_4_Consumption_kW
+2024-10-26 12:12:40,618 - __main__ - INFO -   TOU_rates (INR) -> TOU_rates_INR
+2024-10-26 12:12:40,618 - __main__ - INFO -   Cummulative Energy Consumption -> Cummulative_Energy_Consumption
+2024-10-26 12:12:40,638 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 12:12:40,640 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 12:12:40,640 - __main__ - INFO - Training model for target: TOU_rates_INR
+2024-10-26 12:12:40,643 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:13:19,053 - __main__ - INFO - Model training completed for TOU_rates_INR
+2024-10-26 12:13:19,058 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:13:19,292 - __main__ - ERROR - 'Label' column not found in predictions. Available columns: Index(['Solar_energy_Generation_kWh', 'consumptionValue_kW',
+       'Device_1_Consumption_kW', 'Device_2_Consumption_kW',
+       'Device_3_Consumption_kW', 'Device_4_Consumption_kW',
+       'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month',
+       'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin',
+       'Month_cos', 'TOU_rates_INR', 'prediction_label'],
+      dtype='object')
+2024-10-26 12:13:19,293 - __main__ - ERROR - Prediction column error for TOU_rates_INR: "'Label' column not found in predictions DataFrame"
+2024-10-26 12:13:19,294 - __main__ - ERROR - Error in prediction pipeline: "'Label' column not found in predictions DataFrame"
+2024-10-26 12:19:15,898 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 12:19:15,911 - __main__ - INFO - Column names standardized:
+2024-10-26 12:19:15,912 - __main__ - INFO -   Solar energy Generation  (kWh) -> Solar_energy_Generation_kWh
+2024-10-26 12:19:15,912 - __main__ - INFO -   consumptionValue (kW) -> consumptionValue_kW
+2024-10-26 12:19:15,914 - __main__ - INFO -   Device_1_Consumption (kW) -> Device_1_Consumption_kW
+2024-10-26 12:19:15,915 - __main__ - INFO -   Device_2_Consumption (kW) -> Device_2_Consumption_kW
+2024-10-26 12:19:15,917 - __main__ - INFO -   Device_3_Consumption (kW) -> Device_3_Consumption_kW
+2024-10-26 12:19:15,917 - __main__ - INFO -   Device_4_Consumption (kW) -> Device_4_Consumption_kW
+2024-10-26 12:19:15,918 - __main__ - INFO -   TOU_rates (INR) -> TOU_rates_INR
+2024-10-26 12:19:15,918 - __main__ - INFO -   Cummulative Energy Consumption -> Cummulative_Energy_Consumption
+2024-10-26 12:19:15,938 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 12:19:15,940 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 12:19:15,950 - __main__ - INFO - Training model for target: TOU_rates_INR
+2024-10-26 12:19:15,958 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:19:52,611 - __main__ - INFO - Model training completed for TOU_rates_INR
+2024-10-26 12:19:52,616 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:19:52,828 - __main__ - INFO - Predictions generated for TOU_rates_INR
+2024-10-26 12:19:52,830 - __main__ - INFO - Training model for target: Solar energy Generation (kWh)
+2024-10-26 12:19:52,834 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos', 'Predicted_TOU_rates_INR']
+2024-10-26 12:19:52,860 - __main__ - ERROR - Error training model for Solar energy Generation (kWh): Invalid value for the target parameter. Column Solar energy Generation (kWh) not found in the data.
+2024-10-26 12:19:52,862 - __main__ - ERROR - Error in prediction pipeline: Invalid value for the target parameter. Column Solar energy Generation (kWh) not found in the data.
+2024-10-26 12:22:03,242 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 12:22:03,252 - __main__ - INFO - Column names standardized:
+2024-10-26 12:22:03,253 - __main__ - INFO -   Solar energy Generation  (kWh) -> Solar_energy_Generation_kWh
+2024-10-26 12:22:03,256 - __main__ - INFO -   consumptionValue (kW) -> consumptionValue_kW
+2024-10-26 12:22:03,257 - __main__ - INFO -   Device_1_Consumption (kW) -> Device_1_Consumption_kW
+2024-10-26 12:22:03,259 - __main__ - INFO -   Device_2_Consumption (kW) -> Device_2_Consumption_kW
+2024-10-26 12:22:03,259 - __main__ - INFO -   Device_3_Consumption (kW) -> Device_3_Consumption_kW
+2024-10-26 12:22:03,260 - __main__ - INFO -   Device_4_Consumption (kW) -> Device_4_Consumption_kW
+2024-10-26 12:22:03,261 - __main__ - INFO -   TOU_rates (INR) -> TOU_rates_INR
+2024-10-26 12:22:03,261 - __main__ - INFO -   Cummulative Energy Consumption -> Cummulative_Energy_Consumption
+2024-10-26 12:22:03,282 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 12:22:03,283 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 12:22:03,284 - __main__ - INFO - Training model for target: TOU_rates_INR
+2024-10-26 12:22:03,287 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:22:32,960 - __main__ - INFO - Model training completed for TOU_rates_INR
+2024-10-26 12:22:32,963 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:22:33,179 - __main__ - INFO - Predictions generated for TOU_rates_INR
+2024-10-26 12:22:33,180 - __main__ - ERROR - Column 'Solar energy Generation (kWh)' not found in data. Available columns: Index(['Senddate', 'Hours', 'Solar_energy_Generation_kWh',
+       'consumptionValue_kW', 'Device_1_Consumption_kW',
+       'Device_2_Consumption_kW', 'Device_3_Consumption_kW',
+       'Device_4_Consumption_kW', 'TOU_rates_INR',
+       'Cummulative_Energy_Consumption', 'Timestamp', 'Hour', 'Minute', 'Day',
+       'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin',
+       'Month_cos', 'Predicted_TOU_rates_INR'],
+      dtype='object')
+2024-10-26 12:22:33,181 - __main__ - ERROR - Error training model for Solar energy Generation (kWh): Invalid value for the target parameter. Column 'Solar energy Generation (kWh)' not found in the data.
+2024-10-26 12:22:33,182 - __main__ - ERROR - Error in prediction pipeline: Invalid value for the target parameter. Column 'Solar energy Generation (kWh)' not found in the data.
+2024-10-26 12:24:05,047 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 12:24:05,062 - __main__ - INFO - Column names standardized:
+2024-10-26 12:24:05,063 - __main__ - INFO -   Solar energy Generation  (kWh) -> Solar_energy_Generation_kWh
+2024-10-26 12:24:05,064 - __main__ - INFO -   consumptionValue (kW) -> consumptionValue_kW
+2024-10-26 12:24:05,064 - __main__ - INFO -   Device_1_Consumption (kW) -> Device_1_Consumption_kW
+2024-10-26 12:24:05,065 - __main__ - INFO -   Device_2_Consumption (kW) -> Device_2_Consumption_kW
+2024-10-26 12:24:05,067 - __main__ - INFO -   Device_3_Consumption (kW) -> Device_3_Consumption_kW
+2024-10-26 12:24:05,067 - __main__ - INFO -   Device_4_Consumption (kW) -> Device_4_Consumption_kW
+2024-10-26 12:24:05,068 - __main__ - INFO -   TOU_rates (INR) -> TOU_rates_INR
+2024-10-26 12:24:05,069 - __main__ - INFO -   Cummulative Energy Consumption -> Cummulative_Energy_Consumption
+2024-10-26 12:24:05,093 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 12:24:05,094 - __main__ - INFO - DataFrame shape: (5027, 21)
+2024-10-26 12:24:05,094 - __main__ - INFO - Training model for target: TOU_rates_INR
+2024-10-26 12:24:05,096 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:24:35,105 - __main__ - INFO - Model training completed for TOU_rates_INR
+2024-10-26 12:24:35,108 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:24:35,322 - __main__ - INFO - Predictions generated for TOU_rates_INR
+2024-10-26 12:24:35,323 - __main__ - INFO - Training model for target: Solar_energy_Generation_kWh
+2024-10-26 12:24:35,328 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos', 'Predicted_TOU_rates_INR']
+2024-10-26 12:24:35,351 - __main__ - ERROR - Error training model for Solar_energy_Generation_kWh: 5 missing values found in the target column: Solar_energy_Generation_kWh. To proceed, remove the respective rows from the data. 
+2024-10-26 12:24:35,352 - __main__ - ERROR - Error in prediction pipeline: 5 missing values found in the target column: Solar_energy_Generation_kWh. To proceed, remove the respective rows from the data. 
+2024-10-26 12:28:28,259 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 12:28:28,271 - __main__ - INFO - Column names standardized:
+2024-10-26 12:28:28,272 - __main__ - INFO -   Solar energy Generation  (kWh) -> Solar_energy_Generation_kWh
+2024-10-26 12:28:28,273 - __main__ - INFO -   consumptionValue (kW) -> consumptionValue_kW
+2024-10-26 12:28:28,275 - __main__ - INFO -   Device_1_Consumption (kW) -> Device_1_Consumption_kW
+2024-10-26 12:28:28,277 - __main__ - INFO -   Device_2_Consumption (kW) -> Device_2_Consumption_kW
+2024-10-26 12:28:28,278 - __main__ - INFO -   Device_3_Consumption (kW) -> Device_3_Consumption_kW
+2024-10-26 12:28:28,279 - __main__ - INFO -   Device_4_Consumption (kW) -> Device_4_Consumption_kW
+2024-10-26 12:28:28,279 - __main__ - INFO -   TOU_rates (INR) -> TOU_rates_INR
+2024-10-26 12:28:28,280 - __main__ - INFO -   Cummulative Energy Consumption -> Cummulative_Energy_Consumption
+2024-10-26 12:28:28,287 - __main__ - ERROR - Error converting time nan: 'float' object has no attribute 'split'
+2024-10-26 12:28:28,288 - __main__ - ERROR - Error loading data: 'float' object has no attribute 'split'
+2024-10-26 12:28:28,289 - __main__ - ERROR - Error in prediction pipeline: 'float' object has no attribute 'split'
+2024-10-26 12:29:51,869 - __main__ - INFO - Configuration loaded successfully
+2024-10-26 12:29:51,890 - __main__ - INFO - Column names standardized:
+2024-10-26 12:29:51,891 - __main__ - INFO -   Solar energy Generation  (kWh) -> Solar_energy_Generation_kWh
+2024-10-26 12:29:51,892 - __main__ - INFO -   consumptionValue (kW) -> consumptionValue_kW
+2024-10-26 12:29:51,893 - __main__ - INFO -   Device_1_Consumption (kW) -> Device_1_Consumption_kW
+2024-10-26 12:29:51,894 - __main__ - INFO -   Device_2_Consumption (kW) -> Device_2_Consumption_kW
+2024-10-26 12:29:51,895 - __main__ - INFO -   Device_3_Consumption (kW) -> Device_3_Consumption_kW
+2024-10-26 12:29:51,896 - __main__ - INFO -   Device_4_Consumption (kW) -> Device_4_Consumption_kW
+2024-10-26 12:29:51,897 - __main__ - INFO -   TOU_rates (INR) -> TOU_rates_INR
+2024-10-26 12:29:51,898 - __main__ - INFO -   Cummulative Energy Consumption -> Cummulative_Energy_Consumption
+2024-10-26 12:29:51,912 - __main__ - INFO - Data loaded and preprocessed successfully
+2024-10-26 12:29:51,913 - __main__ - INFO - DataFrame shape: (5022, 21)
+2024-10-26 12:29:51,914 - __main__ - INFO - Training model for target: TOU_rates_INR
+2024-10-26 12:29:51,916 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:30:30,327 - __main__ - INFO - Model training completed for TOU_rates_INR
+2024-10-26 12:30:30,331 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos']
+2024-10-26 12:30:30,600 - __main__ - INFO - Predictions generated for TOU_rates_INR
+2024-10-26 12:30:30,602 - __main__ - INFO - Training model for target: Solar_energy_Generation_kWh
+2024-10-26 12:30:30,605 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos', 'Predicted_TOU_rates_INR']
+2024-10-26 12:31:03,068 - __main__ - INFO - Model training completed for Solar_energy_Generation_kWh
+2024-10-26 12:31:03,071 - __main__ - INFO - Features used: ['Solar_energy_Generation_kWh', 'consumptionValue_kW', 'Device_1_Consumption_kW', 'Device_2_Consumption_kW', 'Device_3_Consumption_kW', 'Device_4_Consumption_kW', 'TOU_rates_INR', 'Cummulative_Energy_Consumption', 'Hour', 'Minute', 'Day', 'Month', 'DayOfWeek', 'IsWeekend', 'Hour_sin', 'Hour_cos', 'Month_sin', 'Month_cos', 'Predicted_TOU_rates_INR']
+2024-10-26 12:31:03,297 - __main__ - INFO - Predictions generated for Solar_energy_Generation_kWh
+2024-10-26 12:31:03,386 - __main__ - INFO - Predictions saved to predictions_output.csv

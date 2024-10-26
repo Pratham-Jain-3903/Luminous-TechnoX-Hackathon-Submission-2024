@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/523016372177870998/3e395e06260140249957256368e885d2/artifacts
+end_time: 1729925670206
+entry_point_name: ''
+experiment_id: '523016372177870998'
+lifecycle_stage: active
+run_id: 3e395e06260140249957256368e885d2
+run_name: Light Gradient Boosting Machine
+run_uuid: 3e395e06260140249957256368e885d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729925669970
+status: 3
+tags: []
+user_id: Pratham Jain

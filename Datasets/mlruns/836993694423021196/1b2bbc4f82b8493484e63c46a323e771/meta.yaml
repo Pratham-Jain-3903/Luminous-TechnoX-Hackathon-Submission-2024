@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/836993694423021196/1b2bbc4f82b8493484e63c46a323e771/artifacts
+end_time: 1729926058582
+entry_point_name: ''
+experiment_id: '836993694423021196'
+lifecycle_stage: active
+run_id: 1b2bbc4f82b8493484e63c46a323e771
+run_name: Gradient Boosting Regressor
+run_uuid: 1b2bbc4f82b8493484e63c46a323e771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729926058291
+status: 3
+tags: []
+user_id: Pratham Jain

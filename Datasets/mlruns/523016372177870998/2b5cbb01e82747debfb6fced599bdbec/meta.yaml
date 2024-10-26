@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/523016372177870998/2b5cbb01e82747debfb6fced599bdbec/artifacts
+end_time: 1729925389268
+entry_point_name: ''
+experiment_id: '523016372177870998'
+lifecycle_stage: active
+run_id: 2b5cbb01e82747debfb6fced599bdbec
+run_name: Elastic Net
+run_uuid: 2b5cbb01e82747debfb6fced599bdbec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729925388999
+status: 3
+tags: []
+user_id: Pratham Jain

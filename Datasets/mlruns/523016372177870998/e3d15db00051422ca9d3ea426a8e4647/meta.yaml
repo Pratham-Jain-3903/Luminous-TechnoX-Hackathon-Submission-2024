@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/523016372177870998/e3d15db00051422ca9d3ea426a8e4647/artifacts
+end_time: 1729925669830
+entry_point_name: ''
+experiment_id: '523016372177870998'
+lifecycle_stage: active
+run_id: e3d15db00051422ca9d3ea426a8e4647
+run_name: Decision Tree Regressor
+run_uuid: e3d15db00051422ca9d3ea426a8e4647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729925669602
+status: 3
+tags: []
+user_id: Pratham Jain

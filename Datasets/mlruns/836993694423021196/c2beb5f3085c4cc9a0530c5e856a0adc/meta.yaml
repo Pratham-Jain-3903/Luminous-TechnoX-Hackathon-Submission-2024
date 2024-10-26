@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/836993694423021196/c2beb5f3085c4cc9a0530c5e856a0adc/artifacts
+end_time: 1729926059777
+entry_point_name: ''
+experiment_id: '836993694423021196'
+lifecycle_stage: active
+run_id: c2beb5f3085c4cc9a0530c5e856a0adc
+run_name: Ridge Regression
+run_uuid: c2beb5f3085c4cc9a0530c5e856a0adc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729926059497
+status: 3
+tags: []
+user_id: Pratham Jain

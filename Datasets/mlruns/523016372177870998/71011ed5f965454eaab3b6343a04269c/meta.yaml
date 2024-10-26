@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/523016372177870998/71011ed5f965454eaab3b6343a04269c/artifacts
+end_time: 1729925547203
+entry_point_name: ''
+experiment_id: '523016372177870998'
+lifecycle_stage: active
+run_id: 71011ed5f965454eaab3b6343a04269c
+run_name: AdaBoost Regressor
+run_uuid: 71011ed5f965454eaab3b6343a04269c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729925546974
+status: 3
+tags: []
+user_id: Pratham Jain

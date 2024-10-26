@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/523016372177870998/86b2835dbe8d4b8984bf5cee5e9a7b4d/artifacts
+end_time: 1729919834548
+entry_point_name: ''
+experiment_id: '523016372177870998'
+lifecycle_stage: active
+run_id: 86b2835dbe8d4b8984bf5cee5e9a7b4d
+run_name: Extra Trees Regressor
+run_uuid: 86b2835dbe8d4b8984bf5cee5e9a7b4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729919834287
+status: 3
+tags: []
+user_id: Pratham Jain

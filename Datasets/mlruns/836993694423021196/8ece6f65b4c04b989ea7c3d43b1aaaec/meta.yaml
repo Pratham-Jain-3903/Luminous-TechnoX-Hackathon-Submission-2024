@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Pratham%20Jain/SisterDear/LuminousTechnoX/Luminous-TechnoX-Hackathon-Submission-2024/Datasets/mlruns/836993694423021196/8ece6f65b4c04b989ea7c3d43b1aaaec/artifacts
+end_time: 1729926062147
+entry_point_name: ''
+experiment_id: '836993694423021196'
+lifecycle_stage: active
+run_id: 8ece6f65b4c04b989ea7c3d43b1aaaec
+run_name: Lasso Least Angle Regression
+run_uuid: 8ece6f65b4c04b989ea7c3d43b1aaaec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729926061847
+status: 3
+tags: []
+user_id: Pratham Jain
