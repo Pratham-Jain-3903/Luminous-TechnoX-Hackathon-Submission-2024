@@ -15,7 +15,7 @@ SolarWise is a comprehensive AI-driven energy management solution that integrate
 
 ## Dashboard Screenshots
 
-<img src="images/dashboard.png" alt="Dashboard Screenshot" width="1000" height="800">
+<img src="images/dashboard.png" alt="Dashboard Screenshot" width="1280" height="640">
 
 - Solar Battery Levels Monitor
 - Power Usage Analytics
@@ -61,7 +61,7 @@ SolarWise is a comprehensive AI-driven energy management solution that integrate
 
 ### IoT Integration Layer
 
-<img src="images/architecture.png" alt="architecture Screenshot" width="1000" height="800">
+<img src="images/architecture.png" alt="architecture Screenshot" width="1280" height="640">
 
 
 ### Cloud Infrastructure
@@ -91,13 +91,13 @@ SolarWise is a comprehensive AI-driven energy management solution that integrate
 
 ## Implementation Details
 
- <img src="images/poc.png" alt="POC implementation Screenshot" width="1000" height="800">
+ <img src="images/poc.png" alt="POC implementation Screenshot" width="1280" height="640">
 
 
 
 ### Data Flow Architecture
 
- <img src="images/cloud" alt=" Dynamic Cloud Architecture Screenshot" width="1000" height="800">
+ <img src="images/cloud" alt=" Dynamic Cloud Architecture Screenshot" width="1280" height="640">
 
 
 ### Database Structure
@@ -139,7 +139,7 @@ SolarWise is a comprehensive AI-driven energy management solution that integrate
    - Handles large data volumes
    - Adaptable to various markets
 
-<img src="images/adaptable.png" alt="Dashboard Screenshot" width="1000" height="800">
+<img src="images/adaptable.png" alt="Dashboard Screenshot" width="1280" height="640">
 
 3. **User Flexibility**
    - Remote monitoring
