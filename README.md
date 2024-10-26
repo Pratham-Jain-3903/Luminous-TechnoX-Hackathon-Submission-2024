@@ -11,9 +11,11 @@ Luminous TechnoX Hackathon Submission 2024
 
 SolarWise is a comprehensive AI-driven energy management solution that integrates IoT devices, cloud computing, and machine learning to provide real-time monitoring, forecasting, and optimization of energy consumption. Our system focuses on maximizing solar energy utilization while minimizing costs through intelligent scheduling and real-time alerts.
 
+##THE USERNAME & PASSWORD IS luminous 
+
 ## Dashboard Screenshots
 
-<img src="images/dashboard.png" alt="Dashboard Screenshot" width="500" height="300">
+<img src="images/Dashboard Screenshot.png" alt="Dashboard Screenshot" width="500" height="300">
 
 - Solar Battery Levels Monitor
 - Power Usage Analytics
@@ -168,8 +170,6 @@ Our ML models were trained using the above split and augmented data, validated a
 ## Source Code
 
 Find our complete source code at: [Luminous-TechnoX-Hackathon-Submission-2024](https://github.com/Pratham-Jain-3903/Luminous-TechnoX-Hackathon-Submission-2024.git)
-
-## License
 
 ## License
 
