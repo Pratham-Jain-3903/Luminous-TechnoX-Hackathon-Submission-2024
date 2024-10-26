@@ -15,7 +15,7 @@ SolarWise is a comprehensive AI-driven energy management solution that integrate
 
 ## Dashboard Screenshots
 
-<img src="images/Dashboard Screenshot.png" alt="Dashboard Screenshot" width="500" height="300">
+<img src="images/dashboard.png" alt="Dashboard Screenshot" width="500" height="300">
 
 - Solar Battery Levels Monitor
 - Power Usage Analytics
